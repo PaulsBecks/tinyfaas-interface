@@ -1,0 +1,22 @@
+[
+    {
+        "url": "https://github.com/PaulsBecks/binance-trading-pair-price-faas/archive/main.zip",
+        "name": "ETHUSDT",
+        "threads": 2,
+        "environment": {
+            "TRADING_PAIR": "ETHUSDT"
+        },
+        "subfolder_path": "/binance-trading-pair-price-faas-main",
+        "base64_encoded": false
+    },
+    {
+        "url": "https://github.com/PaulsBecks/binance-trading-pair-price-faas/archive/main.zip",
+        "name": "BTCUSDT",
+        "threads": 2,
+        "environment": {
+            "TRADING_PAIR": "BTCUSDT"
+        },
+        "subfolder_path": "/binance-trading-pair-price-faas-main",
+        "base64_encoded": false
+    }
+]
