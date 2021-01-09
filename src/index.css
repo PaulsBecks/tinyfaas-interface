@@ -57,8 +57,8 @@ button {
 }
 
 .loader {
-  border: 6px solid #f3f3f3; /* Light grey */
-  border-top: 6px solid #172815; /* Blue */
+  border: 6px solid #f3f3f3; 
+  border-top: 6px solid #172815;
   border-radius: 50%;
   width: 20px;
   height: 20px;
